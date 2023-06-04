@@ -1,2 +1,2 @@
 # wiki
-Wiki for all things lab related.\
+Wiki for all things lab related.
